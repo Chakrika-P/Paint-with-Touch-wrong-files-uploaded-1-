@@ -1,0 +1,33 @@
+.body_backgorund {
+    background-image: url("Untiled.1.png");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: #8400ff; 
+      font-size: 50px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #238006;
+    border: none;
+    color: #c1f0b2;
+    padding: 10px 42px;
+    font-size: 16px;
+    border-radius: 50%;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
